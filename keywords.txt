@@ -1,0 +1,10 @@
+Drive	KEYWORD1
+moveForward	KEYWORD2
+moveBackward	KEYWORD2
+turnRight	KEYWORD2
+turnLeft	KEYWORD2
+moveforwardLeft	KEYWORD2
+moveBackwardLeft	KEYORRD2
+moveforwardRight	KEYWORD2
+moveBackwardRight KEYWORD2
+stopMoving	KEYWORD2	
